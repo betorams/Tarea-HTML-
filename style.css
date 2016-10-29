@@ -1,0 +1,21 @@
+.Header{
+    border: 2px solid red; 
+}
+
+body {
+    border: 2px solid blue; 
+}
+
+ul {
+    border: 2px solid yellow; 
+}
+
+nav li{
+    border: 2px solid green; 
+    display: inline;
+}
+
+img{
+    width: 33%;
+    border: 2px solid green; 
+}
